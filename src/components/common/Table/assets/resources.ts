@@ -1,0 +1,16 @@
+export const defaultStyles =  {
+  tableBorder: '2px solid #eae5e5',
+  fontSize: '14px',
+  fontWeight: 'normal',
+  tableCellPadding: '6px 8px',
+  tableBorderRadius: '0',
+  headerBackgroundColor: '',
+  tableBackgroundColor: '#FFFF',
+  verticalBorderStyle: '2px solid #eae5e5',
+  horizontalBorder: '2px solid #eae5e5',
+  tableCellAlignment: 'center',
+  headerCellAlignment: 'center',
+  headerCellPadding: '6px 8px',
+  tableHeight: 'fit-content',
+  tableWidth: '100%',
+};

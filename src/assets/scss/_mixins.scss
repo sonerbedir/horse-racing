@@ -1,0 +1,5 @@
+@mixin globalVariant($variant) {
+  @each $key, $val in $variant {
+    #{$key}: $val;
+  }
+}
