@@ -2,6 +2,8 @@
 
 The aim of this project is to simulate an interactive horse racing game.
 
+Node.js version: 23.11.0
+
 ## Technology stack
 
 * Typescript
